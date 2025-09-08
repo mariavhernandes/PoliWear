@@ -1,4 +1,4 @@
-| [Português 🇧🇷]() | [English 🇺🇸]() |
+| [Português 🇧🇷]() | [English 🇺🇸](https://github.com/nicksarahh/poliwear/blob/6a2886cbdc4aa90563fea7e361334197106257f2/README-en.md) |
 |---|---|
 <p align="center">
 <img width="300" height="auto" align="center" src="https://github.com/user-attachments/assets/ab00302f-c4e0-48cf-b384-a6d72930b68b" />
