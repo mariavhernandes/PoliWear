@@ -23,7 +23,7 @@ It was designed to solve a real problem within the school environment, bringing 
   
  ## 📸 Screenshots
  <p align="center">
-  <img width="300" height="auto" src="https://github.com/user-attachments/assets/ed1a9fde-6495-4ce5-919a-70d40b29e728" />
-  <img width="300" height="auto"src="https://github.com/user-attachments/assets/c224cce4-e2ad-49ee-adff-9e7743725b0d" />
-  <img width="300" height="auto" src="https://github.com/user-attachments/assets/af28327e-4fa8-4fb9-8ecd-40fd11f2fbf8" />
+  <img width="250" height="auto" src="https://github.com/user-attachments/assets/ed1a9fde-6495-4ce5-919a-70d40b29e728" />
+  <img width="250" height="auto"src="https://github.com/user-attachments/assets/c224cce4-e2ad-49ee-adff-9e7743725b0d" />
+  <img width="250" height="auto" src="https://github.com/user-attachments/assets/af28327e-4fa8-4fb9-8ecd-40fd11f2fbf8" />
 </p>
