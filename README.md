@@ -16,7 +16,7 @@ It was designed to solve a real problem within the school environment, bringing 
 - Shopping cart simulation.
 - Intuitive layout for students and teachers.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 - **HTML5, CSS3, JavaScript**
 - **Node.js** (backend prototype)
 - **MySQL** (simulated database)
